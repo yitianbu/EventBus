@@ -41,6 +41,7 @@ public abstract class AbstractEventBusTest {
 
 
     //test
+    //test2
     /** Activates long(er) running tests e.g. testing multi-threading more thoroughly.  */
     protected static final boolean LONG_TESTS = false;
 
